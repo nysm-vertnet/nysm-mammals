@@ -1,0 +1,161 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 619
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Guatemala ; Times: 4
+	Country: Israel ; Times: 5
+	Country: Mexico ; Times: 8
+	Country: Ukraine ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 4
+	Date: 2014-08-06 ; Times: 2
+	Date: 2014-08-08 ; Times: 8
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 1
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 3
+	Date: 2014-08-21 ; Times: 11
+	Date: 2014-08-22 ; Times: 6
+	Date: 2014-08-23 ; Times: 2
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 7
+	Date: 2014-08-27 ; Times: 3
+	Date: 2014-08-28 ; Times: 2
+	Date: 2014-08-30 ; Times: 3
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus maniculatus bairdii" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "macrotus waterhousii" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "myocastor" ; Times: 3
+	Query: "recordedby:k* year >= 1953 year <= 1953" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 5
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 3
+	Query: "myotis sodalis stateprovince:"New York"" ; Times: 1
+	Query: "Martes americana" ; Times: 3
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: "Kogia" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "coendou" ; Times: 7
+	Query: "unknown "myotis sodalis"" ; Times: 1
+	Query: "Martes americana americana" ; Times: 1
+	Query: "solidago" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: ""myotis sodalis"" ; Times: 1
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 1
+	Query: "Sorex palustris stateprovince:"New York"" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 2
+	Query: "recordedby:silver" ; Times: 1
+	Query: "Alouatta" ; Times: 4
+	Query: "myocastor coypus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 273 download events in this period)
+Total number of records downloaded: 1763 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1205
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 1
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-16 ; Times: 2
+	Date: 2014-08-17 ; Times: 2
+	Date: 2014-08-18 ; Times: 2
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 4
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 7
+	Date: 2014-08-27 ; Times: 1
+	Date: 2014-08-28 ; Times: 3
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 2
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 2
+	Query: "tamiasciurus (tissue)" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 503
+Total number of records retrieved from searches: 5257
+Number of download events that retrieved data from the resource: 210
+Total number of records downloaded: 23300
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 503
+Total number of records retrieved from searches: 5257
+Number of download events that retrieved data from the resource: 277
+Total number of records downloaded: 116330
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
