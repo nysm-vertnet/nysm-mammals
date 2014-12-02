@@ -1,0 +1,87 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 630
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-03 ; Times: 4
+	Date: 2014-11-04 ; Times: 1
+	Date: 2014-11-05 ; Times: 2
+	Date: 2014-11-06 ; Times: 3
+	Date: 2014-11-07 ; Times: 1
+	Date: 2014-11-10 ; Times: 7
+	Date: 2014-11-11 ; Times: 4
+	Date: 2014-11-12 ; Times: 4
+	Date: 2014-11-13 ; Times: 1
+	Date: 2014-11-14 ; Times: 2
+	Date: 2014-11-17 ; Times: 1
+	Date: 2014-11-25 ; Times: 1
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Leopardus" ; Times: 1
+	Query: "Taxidea taxus distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "cebus" ; Times: 2
+	Query: "Greenwich" ; Times: 1
+	Query: "class:Mammalia taxidea taxus" ; Times: 1
+	Query: "Canis familiaris" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "genus:Rhinoceros" ; Times: 1
+	Query: "Canis lupus" ; Times: 2
+	Query: "glaucomys volans" ; Times: 3
+	Query: "type:specimen genus:lynx tissue:1" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 3
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "year <= 1800" ; Times: 2
+	Query: "genus:Lasionycteris tissue:1" ; Times: 1
+	Query: ""martes pennanti" mappable:1" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 5
+	Query: "Phoca vitulina" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 724
+Total number of records retrieved from searches: 7962
+Number of download events that retrieved data from the resource: 256
+Total number of records downloaded: 32197
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 724
+Total number of records retrieved from searches: 7962
+Number of download events that retrieved data from the resource: 323
+Total number of records downloaded: 125227
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
