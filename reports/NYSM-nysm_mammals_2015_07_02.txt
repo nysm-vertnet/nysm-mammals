@@ -1,0 +1,175 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 666
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: France ; Times: 1
+	Country: Italy ; Times: 9
+	Country: Mexico ; Times: 4
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 59
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 11
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-15 ; Times: 4
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 5
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-24 ; Times: 10
+	Date: 2015-06-25 ; Times: 8
+	Date: 2015-06-29 ; Times: 13
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: ""pine snake"" ; Times: 2
+	Query: "genus:puma (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 6
+	Query: "puma concolor type:specimen stateprovince:"Connecticut"" ; Times: 1
+	Query: "Fly Park" ; Times: 2
+	Query: "county:"Wood" stateprovince:"Ohio" class:mammalia year >= 1900 year <= 2015" ; Times: 1
+	Query: "recordedby:ed. hill" ; Times: 1
+	Query: "Didelphis" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "genus:puma (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "county:"Wood" stateprovince:"Ohio" class:mammalia year >= 1970 year <= 2015" ; Times: 1
+	Query: "12243 (skull)" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "canis tissue:1" ; Times: 2
+	Query: "Lontra canadensis (Skeleton)" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "puma concolor distance(location,geopoint(44.59046718130883,-122.6953125))<100000" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "year >= 185 year <= 1860" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "cebus" ; Times: 1
+	Query: "mammals peru" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:"New York"" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.6599240747891,-74.5751953125))<39500" ; Times: 1
+	Query: "genus:Bison class:Mammalia mappable:1" ; Times: 1
+	Query: "Antilocapra" ; Times: 9
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<39499.562392873406" ; Times: 1
+	Query: "genus:marmosa" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (NOT leo)" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "type:specimen specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "genus:tamandua" ; Times: 1
+	Query: "type:specimen genus:marmosa" ; Times: 1
+	Query: "Enfield county:"Tompkins" stateprovince:"New York"" ; Times: 2
+	Query: "Newfoundland" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer" ; Times: 1
+	Query: "Newfoundland and Labrador" ; Times: 1
+	Query: "specificepithet:waterhousii genus:Macrotus" ; Times: 2
+	Query: "Alouatta" ; Times: 2
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: ""Rattus norvegicus" type:specimen tissue:1" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "mammalia 10757" ; Times: 1
+	Query: "year >= 1852 year <= 1855" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: ""ursus arctos"" ; Times: 4
+	Query: "mammalia lima" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1524 download events in this period)
+Total number of records downloaded: 3436 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3178
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 6
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lebanon" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "class:mammalia year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: ""Rattus norvegicus" type:specimen tissue:1" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "antilocapra americana mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1058
+Total number of records retrieved from searches: 12088
+Number of download events that retrieved data from the resource: 167
+Total number of records downloaded: 30800
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1251
+Total number of records retrieved from searches: 13115
+Number of download events that retrieved data from the resource: 516
+Total number of records downloaded: 159106
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
