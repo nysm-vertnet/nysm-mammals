@@ -1,0 +1,192 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 1192
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 5
+	Country: Czech Republic ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 59
+	Country: Colombia ; Times: 5
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 10
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-13 ; Times: 6
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 9
+	Date: 2015-10-23 ; Times: 7
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 10
+	Date: 2015-10-06 ; Times: 5
+	Date: 2015-10-01 ; Times: 8
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-30 ; Times: 5
+	Date: 2015-10-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus virginianus (New York) distance(location,geopoint(42.58679243279068,-76.904296875))&lt;50338" ; Times: 1
+	Query: "rodentia (Newfoundland OR Labrador)" ; Times: 1
+	Query: "Mammalia (Newfoundland Rodentia)" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "Lagenorhynchus massachusetts" ; Times: 3
+	Query: "12739" ; Times: 1
+	Query: "mammalia (Newfoundland OR Labrador)" ; Times: 1
+	Query: "elephas" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "synaptomys cooperi" ; Times: 1
+	Query: "Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Odocoileus virginianus year &gt;= 1900 year &lt;= 1906" ; Times: 1
+	Query: "panthera leo" ; Times: 3
+	Query: "mustela putorius" ; Times: 1
+	Query: "Odocoileus virginianus and alabama" ; Times: 1
+	Query: "genus:Leopardus" ; Times: 1
+	Query: "sciurus carolinensis length type:specimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 9
+	Query: "Ovibos" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "Odocoileus virginianus (New York) distance(location,geopoint(42.58679243279068,-76.904296875))&lt;100000" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "Odocoileus virginianus and georgia" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 6
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "microtus (newfoundland or labrador)" ; Times: 1
+	Query: "ordway" ; Times: 3
+	Query: "15205" ; Times: 1
+	Query: "sus scrofa" ; Times: 5
+	Query: "suffolk county north country road" ; Times: 1
+	Query: "Synaptomys (Newfoundland Labrador)" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.18511618490258,-78.75))&lt;100000" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "balaenoptera massachusetts" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Odocoileus virginianus and Pennsylvania" ; Times: 1
+	Query: "newfoundland fish" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Mammalia (Newfoundland)" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen (New York)" ; Times: 2
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Odocoileus virginianus and wyoming" ; Times: 1
+	Query: "delphinus massachusetts" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "Odocoileus virginianus year &gt;= 1890 year &lt;= 1906" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "Odocoileus virginianus (New York and skin) distance(location,geopoint(42.66897352823146,-76.83837890625))&lt;120709" ; Times: 1
+	Query: "Rodentia (Newfoundland Labrador)" ; Times: 1
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "Mammalia (newfoundland or labrador)" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.929615368668024,-75.849609375))&lt;100000" ; Times: 1
+	Query: "Odocoileus virginianus (New York and skin) distance(location,geopoint(42.66897352823146,-76.83837890625))&lt;100000" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "Odocoileus virginianus (New York and skin)" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 2
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.929615368668024,-75.849609375))&lt;148347" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 823 download events in this period)
+Total number of records downloaded: 1325
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 38
+	Country: Colombia ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-07 ; Times: 4
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 10
+	Date: 2015-10-31 ; Times: 5
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lontra canadensis" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "puma concolor" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Microtus (Newfoundland Labrador)" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
