@@ -1,0 +1,125 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 594
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 35
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-23 ; Times: 9
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-18 ; Times: 3
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-14 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata mappable:1" ; Times: 3
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "12113" ; Times: 1
+	Query: "county:&#34;luzerne&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Equus" ; Times: 5
+	Query: "6977" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "species Lasiurus borealis" ; Times: 1
+	Query: "NYSM" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "79-64" ; Times: 1
+	Query: "martes americana" ; Times: 5
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "newfoundland" ; Times: 1
+	Query: "genus:Equus" ; Times: 5
+	Query: "alces alces" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "institutioncode:NYSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 507 download events in this period)
+Total number of records downloaded: 2511
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 8
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
