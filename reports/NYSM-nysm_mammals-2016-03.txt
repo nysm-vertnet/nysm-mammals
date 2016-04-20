@@ -1,0 +1,62 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "martes americana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 230 download events in this period)
+Total number of records downloaded: 43963
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ochotona" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "tissue" ; Times: 39
+	Query: "Alces alces" ; Times: 1
+
+
+End of report.
