@@ -1,0 +1,184 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 4090
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 37
+	Country: United States ; Times: 83
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Poland ; Times: 2
+	Country: Costa Rica ; Times: 17
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 9
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 7
+	Date: 2016-04-25 ; Times: 34
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-18 ; Times: 10
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-10 ; Times: 23
+	Date: 2016-04-11 ; Times: 8
+	Date: 2016-04-12 ; Times: 16
+	Date: 2016-04-13 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "monroe country year &gt;= 1912 year &lt;= 1928" ; Times: 1
+	Query: "Balaenoptera" ; Times: 1
+	Query: "Pilosa" ; Times: 2
+	Query: "specificepithet:latrans genus:canis tissue:1" ; Times: 4
+	Query: "Puma concolor Ontario 1" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Cebidae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:latrans genus:canis mappable:1 tissue:1" ; Times: 21
+	Query: "panthera leo" ; Times: 1
+	Query: "11221" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia AND (juvenile)" ; Times: 2
+	Query: "Puma concolor Ontario" ; Times: 10
+	Query: "Perissodactyla" ; Times: 1
+	Query: "Rattus norvegicus new york" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "type:specimen (alouatta)" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "PILOSA" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 17
+	Query: "COENDOU" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "lynx canadensis year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 2
+	Query: "12216" ; Times: 3
+	Query: "transitionalis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "R-15469" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 2
+	Query: "Bison bonasus" ; Times: 1
+	Query: "county:&#34;luzerne&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Peromyscus institutioncode:NYSM" ; Times: 3
+	Query: "ONTARIO" ; Times: 1
+	Query: "2 ONTARIO 1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis country:&#34;United States&#34; tissue:1" ; Times: 10
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "type:specimen institutioncode:NYSM" ; Times: 2
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "coendou" ; Times: 8
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "NYSM" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "ontario" ; Times: 3
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "14199" ; Times: 1
+	Query: "Panthera Leo" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "martes americana" ; Times: 4
+	Query: "ONTARIO 1" ; Times: 16
+	Query: "Puma concolor ONTARIO 1" ; Times: 2
+	Query: "gorilla" ; Times: 3
+	Query: "family:Cervidae order:Artiodactyla tissue:1" ; Times: 1
+	Query: "11650 mammal" ; Times: 2
+	Query: "blackberry" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "11650" ; Times: 3
+	Query: "nasua narica" ; Times: 1
+	Query: "genus:sus" ; Times: 2
+	Query: "institutioncode:NYSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 1312 download events in this period)
+Total number of records downloaded: 3455
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 82
+	Country: Unknown ; Times: 22
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 8
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 5
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera leo" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+
+
+End of report.
