@@ -1,0 +1,215 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 1913
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 28
+	Country: Mexico ; Times: 51
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 13
+	Country: France ; Times: 1
+	Country: United States ; Times: 67
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 22
+	Date: 2016-06-20 ; Times: 46
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-14 ; Times: 14
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 24
+	Date: 2016-06-13 ; Times: 13
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-11 ; Times: 3
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-24 ; Times: 5
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-02 ; Times: 7
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "7173" ; Times: 1
+	Query: "myocastor" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 3
+	Query: "nasua nasua" ; Times: 1
+	Query: "Rattus rattus" ; Times: 3
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "bison bison   " ; Times: 6
+	Query: "london" ; Times: 1
+	Query: "8442" ; Times: 2
+	Query: "sylvilagus floridanus stateprovince:&#34;New York&#34; year &lt;= 1920" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "11139" ; Times: 4
+	Query: "tamandua" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "leopardus" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "8442 mammalia" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "alces alces   " ; Times: 3
+	Query: "Mus musculus 1" ; Times: 4
+	Query: "genus:canis institutioncode:NYSM" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 3
+	Query: "8516" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "ovibos" ; Times: 3
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "Mus musculus" ; Times: 4
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 13
+	Query: "lagenorhynchus" ; Times: 1
+	Query: "11899" ; Times: 3
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "genus:canis" ; Times: 6
+	Query: "TURSIOPS" ; Times: 1
+	Query: "genus:bison" ; Times: 4
+	Query: "equus" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 4
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "nasua narica" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "canis latrans" ; Times: 5
+	Query: "12522" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "tachyoryctes" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "genus:dasypus mappable:1" ; Times: 1
+	Query: "canis lupus   " ; Times: 10
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 4
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 9
+	Query: "Panthera leo" ; Times: 2
+	Query: "institutioncode:NYSM" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 122 (out of 1052 download events in this period)
+Total number of records downloaded: 8168
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 75
+	Country: Mexico ; Times: 45
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 5
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 3
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-17 ; Times: 12
+	Date: 2016-06-14 ; Times: 12
+	Date: 2016-06-15 ; Times: 9
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 22
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "erethizon" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "genus:canis institutioncode:NYSM" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
