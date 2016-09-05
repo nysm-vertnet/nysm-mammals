@@ -1,0 +1,167 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 1378
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 77
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Czech Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 5
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-15 ; Times: 4
+	Date: 2016-08-16 ; Times: 8
+	Date: 2016-08-17 ; Times: 7
+	Date: 2016-08-25 ; Times: 5
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-23 ; Times: 18
+	Date: 2016-08-09 ; Times: 2
+	Date: 2016-08-22 ; Times: 8
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "type:specimen genus:Glaucomys county:&#34;Tompkins&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Cicero swamp" ; Times: 5
+	Query: "Hemitragus" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "lontra canadensis tissue:1" ; Times: 1
+	Query: "synaptomys cooperi" ; Times: 3
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;maine&#34; institutioncode:NYSM" ; Times: 1
+	Query: "order:carnivora stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "type:specimen genus:Glaucomys county:&#34;Tompkins&#34; stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "mustela putorius" ; Times: 2
+	Query: "felis silvestris" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "family:ursidae stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:Glaucomys county:&#34;Tompkins&#34; stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma distance(location,geopoint(40.27952566881294,-114.76318359375))&lt;266668" ; Times: 1
+	Query: "TP" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "Aotus tissue:1" ; Times: 2
+	Query: "kane county utah" ; Times: 3
+	Query: "genus:canis stateprovince:&#34;maine&#34;" ; Times: 3
+	Query: "Ut" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Myotis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "13787" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "family:canidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "phoca vitulina massachusetts" ; Times: 5
+	Query: "saimiri" ; Times: 1
+	Query: "family:ursidae stateprovince:&#34;maine&#34; institutioncode:NYSM" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2000 tissue:1" ; Times: 1
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:ursidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "cottontail" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "&#34;Canis latrans&#34; type:specimen year &gt;= 2000 year &lt;= 2016" ; Times: 2
+	Query: "mustela putorius mappable:1 tissue:1" ; Times: 1
+	Query: "grampus griseus" ; Times: 4
+	Query: "Marmota monax" ; Times: 1
+	Query: "type:specimen specificepithet:macrocephalus genus:Physeter" ; Times: 1
+	Query: "Lepus americanus year &gt;= 1984 year &lt;= 2015" ; Times: 1
+	Query: "Myotis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2000 tissue:1" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "sylvilagus transitionalis massachusetts" ; Times: 2
+	Query: "genus:Glaucomys county:&#34;Tompkins&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "specificepithet:splendens genus:Tachyoryctes" ; Times: 3
+	Query: "Aepyceros" ; Times: 3
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Choloepus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 924 download events in this period)
+Total number of records downloaded: 2548
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 5
+	Country: Netherlands ; Times: 4
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 5
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-31 ; Times: 5
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 8
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "microtus californicus" ; Times: 1
+	Query: "lontra canadensis tissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma distance(location,geopoint(40.27952566881294,-114.76318359375))&lt;266668" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "order:Rodentia distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
