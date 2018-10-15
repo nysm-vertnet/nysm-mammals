@@ -1,0 +1,158 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 754
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 59
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-03 ; Times: 7
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-07 ; Times: 6
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-04 ; Times: 12
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-06 ; Times: 7
+	Date: 2017-12-01 ; Times: 10
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-26 ; Times: 9
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-19 ; Times: 2
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zapus 2678" ; Times: 1
+	Query: "Zapus 2679" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:lucifugus genus:Myotis county:&#34;tompkins&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:neotoma county:&#34;grant&#34;" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 3
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:neotoma county:&#34;grant&#34; stateprovince:&#34;washington&#34; year &gt;= 1980" ; Times: 1
+	Query: "13875" ; Times: 1
+	Query: "Zapus 2676" ; Times: 1
+	Query: "Zapus 2677" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Delphinus delphis" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "genus:Myotis stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "sorex dispar" ; Times: 2
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Zapus 2684" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 7
+	Query: "mustela nivalis new york" ; Times: 1
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "Roy Latham" ; Times: 2
+	Query: "13083" ; Times: 1
+	Query: "11682" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 8
+	Query: "alces" ; Times: 2
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "distance(location,geopoint(41.637282924,-74.2088249795))&lt;1452" ; Times: 1
+	Query: "Zapus 2681" ; Times: 1
+	Query: "Zapus 2680" ; Times: 1
+	Query: "Zapus 2683" ; Times: 1
+	Query: "Zapus 2682" ; Times: 1
+	Query: "Zapus 2685" ; Times: 1
+	Query: "locality:Hudson River" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "distance(location,geopoint(40.8938696825001,-73.544534259))&lt;6019" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "genus:Eptesicus stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "distance(location,geopoint(44.9926500945,-72.6738853945))&lt;38731" ; Times: 2
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "Genoa" ; Times: 1
+	Query: "distance(location,geopoint(44.9984028269285,-72.6710200295))&lt;38736" ; Times: 2
+	Query: "Alces" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.004155559357,-72.6720390447798))&lt;38772" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "institutioncode:nysm" ; Times: 1
+	Query: "genus:neotoma county:&#34;grant&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 674 download events in this period)
+Total number of records downloaded: 6871
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 10
+	Date: 2017-12-26 ; Times: 10
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
