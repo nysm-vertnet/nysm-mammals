@@ -1,0 +1,140 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 1291
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 17
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 15
+	Country: United States ; Times: 47
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-07 ; Times: 7
+	Date: 2018-05-04 ; Times: 15
+	Date: 2018-05-02 ; Times: 7
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-17 ; Times: 5
+	Date: 2018-05-16 ; Times: 20
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "10048" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;queens&#34; stateprovince:&#34;new york&#34;" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929 institutioncode:NYSM" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:NYSM" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "order:Cetacea institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:NYSM" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 6
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1910 year &lt;= 1919 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "gbifdatasetid:835ff8be-ea5c-45e4-b3f3-126852ac56fe canis lupus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 15
+	Query: "locality:salamanca" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "entomology" ; Times: 1
+	Query: "gbifdatasetid:835ff8be-ea5c-45e4-b3f3-126852ac56fe wolf" ; Times: 1
+	Query: "ANDES-A 3686" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "(whale) institutioncode:NYSM" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "gbifdatasetid:835ff8be-ea5c-45e4-b3f3-126852ac56fe" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "hastissue:1 myotis septentrionalis" ; Times: 2
+	Query: "Geomys pinetis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 1306
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "palliata" ; Times: 2
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "order:Cetacea institutioncode:NYSM" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
