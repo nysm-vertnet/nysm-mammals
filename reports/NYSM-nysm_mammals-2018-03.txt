@@ -1,0 +1,227 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 347
+Number of records retrieved in searches: 4787
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 280
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Denmark ; Times: 18
+	Country: United Kingdom ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 37
+	Date: 2018-03-29 ; Times: 17
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 6
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-27 ; Times: 41
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-01 ; Times: 13
+	Date: 2018-03-02 ; Times: 31
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-04 ; Times: 3
+	Date: 2018-03-05 ; Times: 28
+	Date: 2018-03-28 ; Times: 14
+	Date: 2018-03-07 ; Times: 19
+	Date: 2018-03-08 ; Times: 5
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-25 ; Times: 8
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 5
+	Date: 2018-03-20 ; Times: 29
+	Date: 2018-03-21 ; Times: 16
+	Date: 2018-03-26 ; Times: 55
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lasiurus specificepithet:borealis" ; Times: 5
+	Query: "genus:Glaucomys specificepithet:volans" ; Times: 5
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 5
+	Query: "specificepithet:pardalis genus:Leopardus family:Felidae" ; Times: 1
+	Query: "Felis silvestris mappable:1" ; Times: 2
+	Query: "mazama temama" ; Times: 2
+	Query: "genus:Vulpes specificepithet:vulpes" ; Times: 2
+	Query: "North Midden" ; Times: 2
+	Query: "&#34;gorilla gorilla&#34; vntype:specimen" ; Times: 1
+	Query: "specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 2
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 5
+	Query: "genus:Macrotus specificepithet:waterhousii" ; Times: 5
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 2
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "8221" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:NYSM:ZM:zm-3542&#34;" ; Times: 4
+	Query: "genus:Ursus specificepithet:americanus" ; Times: 1
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 5
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "genus:Aotus specificepithet:lemurinus" ; Times: 5
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 5
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "15119" ; Times: 1
+	Query: "genus:Sciurus specificepithet:granatensis" ; Times: 5
+	Query: "vntype:specimen institutioncode:NYSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "placenta" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor" ; Times: 2
+	Query: "genus:Oryzomys" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Giraffa  specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 5
+	Query: "Glaucomys sabrinus skeleton" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:floridanus" ; Times: 1
+	Query: "genus:Canis specificepithet:latrans" ; Times: 1
+	Query: "genus:Lontra specificepithet:canadensis" ; Times: 5
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "12594 R" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Phoca" ; Times: 2
+	Query: "genus:gorilla specificepithet:gorilla" ; Times: 2
+	Query: "genus:Panthera" ; Times: 2
+	Query: "genus:Panthera specificepithet:leo" ; Times: 5
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "specificepithet:variegatus genus:Bradypus" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 8
+	Query: "genus:Tapirus specificepithet:bairdii" ; Times: 5
+	Query: "tursiops" ; Times: 3
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "county:&#34;Tarrant&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "genus:Cebus specificepithet:capucinus" ; Times: 7
+	Query: "genus:Marmosa specificepithet:mexicana" ; Times: 5
+	Query: "genus:Caluromys specificepithet:derbianus" ; Times: 5
+	Query: "genus:Alouatta specificepithet:palliata" ; Times: 13
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 5
+	Query: "genus:Castor specificepithet:canadensis" ; Times: 3
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 2
+	Query: "NYSM" ; Times: 1
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 5
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "specificepithet:hoffmanni genus:Choloepus" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:rothschildi genus:Coendou" ; Times: 1
+	Query: "16003" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:palustris" ; Times: 4
+	Query: "genus:Ondatra specificepithet:zibethicus" ; Times: 1
+	Query: "genus:Balaenoptera specificepithet:physalus" ; Times: 5
+	Query: "specificepithet:marsupialis genus:Didelphis" ; Times: 1
+	Query: "genus:Nasua specificepithet:narica" ; Times: 6
+	Query: "genus:Ondatra" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 5
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "Mammals Illinois Cook" ; Times: 1
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 5
+	Query: "specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:NYSM:ZM:zm-3949&#34;" ; Times: 4
+	Query: "genus:Tamias specificepithet:striatus" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "specificepithet:granatensis genus:Sciurus" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Felis specificepithet:catus" ; Times: 5
+	Query: "specificepithet:gulo genus:gulo" ; Times: 3
+	Query: "vntype:specimen (gorilla )" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "specificepithet:macrocephalus genus:Physeter order:Cetacea country:&#34;United States&#34;" ; Times: 1
+	Query: "geomys pinetis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus (bairdii) year &gt;= 1948 year &lt;= 1956" ; Times: 1
+	Query: "genus:Kogia specificepithet:breviceps" ; Times: 5
+	Query: "10273" ; Times: 1
+	Query: "15144" ; Times: 1
+	Query: "genus:Bradypus specificepithet:variegatus" ; Times: 6
+	Query: "genus:Microtus specificepithet:pinetorum" ; Times: 5
+	Query: "genus:Lynx specificepithet:rufus" ; Times: 1
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "jeff stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Neotoma specificepithet:cinerea" ; Times: 2
+	Query: "Equidae" ; Times: 4
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 5
+	Query: "genus:Myotis specificepithet:sodalis" ; Times: 5
+	Query: "Panthera tigris " ; Times: 1
+	Query: "genus:gorilla" ; Times: 2
+	Query: "scientificname:gorilla gorilla" ; Times: 1
+	Query: "vntype:specimen (gorilla gorilla)" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 5
+	Query: "Gorilla" ; Times: 1
+	Query: "genus:Zapus specificepithet:hudsonius" ; Times: 2
+	Query: "specificepithet:dispar genus:sorex" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:NYSM" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 5
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 5
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 7
+	Query: "Hominidae" ; Times: 2
+	Query: "institutioncode:NYSM" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes (urban OR city)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1284 download events in this period)
+Total number of records downloaded: 2126
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-24 ; Times: 4
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Felidae" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "vntype:specimen family:Phocidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Soricidae country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen order:Cetacea basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
