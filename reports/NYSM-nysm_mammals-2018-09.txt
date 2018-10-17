@@ -1,0 +1,139 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 355
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 13
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-27 ; Times: 5
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-13 ; Times: 9
+	Date: 2018-09-24 ; Times: 13
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-19 ; Times: 19
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-21 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "panthera leo" ; Times: 14
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes year &gt;= 2000" ; Times: 1
+	Query: "skunk skull" ; Times: 2
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB)" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 4
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(41.79661620239966,-73.51318359375))&lt;247840.770513055" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "catalognumber:13836 &#34;sylvilagus floridanus&#34;" ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB NOT cave)" ; Times: 1
+	Query: "minnesota fred barker" ; Times: 1
+	Query: "catalognumber:3982 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "balaenoptera" ; Times: 2
+	Query: "specificepithet:bottae genus:thomomys county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Silas Paine" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "catalognumber:13763 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "specificepithet:sodalis genus:myotis hastissue:1" ; Times: 1
+	Query: "catalognumber:13762 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "catalognumber:13761 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "institutioncode:NYSM" ; Times: 1
+	Query: "Thurber" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "catalognumber:7547 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "catalognumber:13839 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 4
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB NOT fossil)" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(41.13803159902701,-79.79736328125))&lt;247840.770513055" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(42.99732662287912,-72.19482421875))&lt;247840.770513055" ; Times: 1
+	Query: "catalognumber:13830 &#34;sylvilagus floridanus&#34;" ; Times: 2
+	Query: "R 15654" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 12
+	Query: "nasua narica" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "catalognumber:5201 &#34;peromyscus leucopus&#34;" ; Times: 1
+	Query: "catalognumber:13760 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Giraffa camelopardalis}" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; AND (NOT MSB NOT Earth )" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "catalognumber:13759 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 846 download events in this period)
+Total number of records downloaded: 1185
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 7
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera mappable:1" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "minnesota fred barker" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "canis lupus" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+
+
+End of report.
