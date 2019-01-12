@@ -1,0 +1,165 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 2897
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 55
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 6
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-08 ; Times: 6
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-03 ; Times: 10
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-09 ; Times: 4
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 8
+	Date: 2018-12-05 ; Times: 10
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-07 ; Times: 9
+	Date: 2018-12-12 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "Tursiops truncatus mappable:1" ; Times: 1
+	Query: "Didelphis marsupialis mappable:1" ; Times: 1
+	Query: "Vulpes vulpes washington" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "10379" ; Times: 1
+	Query: "10732" ; Times: 2
+	Query: "Parascalops" ; Times: 2
+	Query: "Procyon lotor hastissue:1" ; Times: 2
+	Query: "Cuniculus paca" ; Times: 2
+	Query: "bradypus variegatus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Madison&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "felis silvestris" ; Times: 5
+	Query: "Herron" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 6
+	Query: "Peromyscus maniculatus bairdii hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;New york&#34; sex:male" ; Times: 2
+	Query: "tamandua mappable:1" ; Times: 2
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Halichoerus" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "order:Primates " ; Times: 2
+	Query: "15623" ; Times: 1
+	Query: "Tursiops" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 7
+	Query: "specificepithet:maritimus genus:ursus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Caluromys country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;new york&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "NYSM" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "north midden" ; Times: 4
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Anchorage) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:derbianus genus:Caluromys country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "13139" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34; preparations:skin year &gt;= 1880 year &lt;= 1970 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "Lepus californicus kansas" ; Times: 1
+	Query: "Halichoerus grypus mappable:1" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "12281" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 809 download events in this period)
+Total number of records downloaded: 4548
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 6
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-09 ; Times: 13
+	Date: 2018-12-10 ; Times: 8
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-18 ; Times: 4
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 1
+
+
+End of report.
