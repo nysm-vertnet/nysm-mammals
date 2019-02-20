@@ -1,0 +1,183 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 915
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: Netherlands ; Times: 8
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 66
+	Country: Sweden ; Times: 1
+	Country: Spain ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-23 ; Times: 3
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-30 ; Times: 9
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-31 ; Times: 17
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-29 ; Times: 5
+	Date: 2019-01-28 ; Times: 10
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 7
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "recordnumber:1057" ; Times: 1
+	Query: "&#34;caluromys derbianus&#34;" ; Times: 3
+	Query: "specificepithet:minimus genus:tamias institutioncode:NYSM" ; Times: 1
+	Query: "stenella coeruleoalba" ; Times: 1
+	Query: "mustela nivalis new york" ; Times: 1
+	Query: "13877" ; Times: 1
+	Query: "Dasypodidae" ; Times: 3
+	Query: "sorex dispar" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "weasel" ; Times: 1
+	Query: "13818" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "13917" ; Times: 1
+	Query: "microtus chrotorrhinus new york greene" ; Times: 1
+	Query: "(drayton)" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:NYSM" ; Times: 1
+	Query: "(Oryctolagus cuniculus)" ; Times: 1
+	Query: "(Giraffa camelopardalis)" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "marine mammals" ; Times: 1
+	Query: "sorex hoyi new york" ; Times: 3
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "10812" ; Times: 1
+	Query: "rangifer tarandus country:&#34;Canada&#34;" ; Times: 2
+	Query: "(11966)" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "&#34;Equus caballus&#34;" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "Alces" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:NYSM" ; Times: 1
+	Query: "lepus europaeus" ; Times: 3
+	Query: "Equus caballus" ; Times: 1
+	Query: "15827" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Giraffa" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus" ; Times: 2
+	Query: "15171" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 2
+	Query: "12623" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis preparations:skull institutioncode:NYSM basisofrecord:PreservedSpecimen hassex:1 hastissue:1" ; Times: 1
+	Query: "Alces alces" ; Times: 2
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "Bradypus variegatus" ; Times: 4
+	Query: "12343" ; Times: 2
+	Query: "order:perissodactyla" ; Times: 2
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 3
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "brook trout" ; Times: 1
+	Query: "locality: big flats stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Equus hemionus" ; Times: 2
+	Query: "dasypus" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "microtus chrotorrhinus new york essex" ; Times: 1
+	Query: "ontario specificepithet:latrans genus:canis family:Canidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "locality:letchworth stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "New York specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 2
+	Query: "specificepithet:temama genus:Mazama" ; Times: 3
+	Query: "&#34;Antilocapra americana&#34;" ; Times: 1
+	Query: "&#34;Ursus maritimus&#34;" ; Times: 3
+	Query: "microtus chrotorrhinus new york" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 962 download events in this period)
+Total number of records downloaded: 397
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 12
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-31 ; Times: 4
+	Date: 2019-01-30 ; Times: 3
+	Date: 2019-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis preparations:skull institutioncode:NYSM basisofrecord:PreservedSpecimen hassex:1 hastissue:1" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:townsendii genus:Plecotus mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+
+
+End of report.
