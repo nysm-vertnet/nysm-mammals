@@ -1,0 +1,175 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 914
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 67
+	Country: Mexico ; Times: 12
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 9
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 13
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 5
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 8
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 14
+	Date: 2019-04-20 ; Times: 8
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-22 ; Times: 5
+	Date: 2019-04-23 ; Times: 10
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-24 ; Times: 10
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "catalognumber:8415 institutioncode:NYSM" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "catalognumber:1238 institutioncode:NYSM" ; Times: 1
+	Query: "catalognumber:1052 institutioncode:NYSM" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 5
+	Query: "catalognumber:1552 institutioncode:NYSM" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereus genus:lasiurus hastissue:1" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Sciurus carolinensis stateprovince:&#34;New York&#34; hastissue:1" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "catalognumber:10989 institutioncode:NYSM" ; Times: 2
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 5
+	Query: "Cuniculus paca mappable:1" ; Times: 4
+	Query: "catalognumber:8664 institutioncode:NYSM" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "recordedby:herron" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "12171" ; Times: 1
+	Query: "Mustela frenata" ; Times: 8
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:seminolus genus:lasiurus" ; Times: 1
+	Query: "catalognumber:1547 institutioncode:NYSM" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "12171 order:rodentia" ; Times: 1
+	Query: "NYSM 11235" ; Times: 2
+	Query: "catalognumber:543 institutioncode:NYSM" ; Times: 1
+	Query: "catalognumber:1230 institutioncode:NYSM" ; Times: 1
+	Query: "Sciurus carolinensis New York" ; Times: 1
+	Query: "delhi" ; Times: 2
+	Query: "zm-13619" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 2
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "11235" ; Times: 1
+	Query: "catalognumber:7611 institutioncode:NYSM" ; Times: 1
+	Query: "11235 NYSM" ; Times: 4
+	Query: "Sciurus carolinensis hastissue:1" ; Times: 5
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "RM 4940" ; Times: 1
+	Query: "genus:Mephitis institutioncode:NYSM" ; Times: 1
+	Query: "14312 NYSM" ; Times: 2
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "catalognumber:15415 institutioncode:NYSM" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Kogia breviceps" ; Times: 1
+	Query: "zm-14819" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1263 download events in this period)
+Total number of records downloaded: 1369
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 10
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 5
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
