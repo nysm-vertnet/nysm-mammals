@@ -1,0 +1,133 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 2453
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 25
+	Country: United States ; Times: 44
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 18
+	Date: 2019-03-18 ; Times: 6
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 6
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 6
+	Date: 2019-03-20 ; Times: 7
+	Date: 2019-03-05 ; Times: 13
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "15384" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 2
+	Query: "zm 15664" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "13871" ; Times: 1
+	Query: "Poison Ivy" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Coendou mappable:1" ; Times: 1
+	Query: "NYSM 7062" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "Blarina" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;vermont&#34; year &gt;= 1975" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 5
+	Query: "Canis latrans institutioncode:NYSM" ; Times: 1
+	Query: "preparations:baleen" ; Times: 1
+	Query: "(Antilocapra americana)" ; Times: 2
+	Query: "order:Artiodactyla country:&#34;Canada&#34;" ; Times: 2
+	Query: "11583" ; Times: 1
+	Query: "genus:Alces year &gt;= 1919 year &lt;= 2018" ; Times: 1
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34; preparations:baleen" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:NYSM" ; Times: 1
+	Query: "institutioncode:NYSM distance(location,geopoint(44.10816899118461,-84.43359375))&lt;352598" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;new york&#34; year &gt;= 1975" ; Times: 1
+	Query: "pine bush" ; Times: 1
+	Query: "CUNICULUS PACA" ; Times: 1
+	Query: "vntype:specimen genus:Dasypus" ; Times: 1
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "NYSM" ; Times: 1
+	Query: "genus:peromyscus year &gt;= 1900 year &lt;= 2019 institutioncode:NYSM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 2
+	Query: "Bradypus variegatus mappable:1" ; Times: 25
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Alces" ; Times: 2
+	Query: "Ursus Maritimus" ; Times: 1
+	Query: "order:cetacea stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Mazama temama" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "12308" ; Times: 1
+	Query: "Blackberry" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1281 download events in this period)
+Total number of records downloaded: 1737
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 3
+	Query: "genus:peromyscus year &gt;= 1900 year &lt;= 2019 institutioncode:NYSM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "genus:urocyon stateprovince:&#34;new york&#34; year &gt;= 1975" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34; preparations:baleen" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+
+
+End of report.
