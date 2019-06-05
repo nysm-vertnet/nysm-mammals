@@ -1,0 +1,136 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 813
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 4
+	Country: United States ; Times: 39
+	Country: Chile ; Times: 4
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 5
+	Date: 2019-05-24 ; Times: 8
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-20 ; Times: 5
+	Date: 2019-05-30 ; Times: 4
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-02 ; Times: 6
+	Date: 2019-05-09 ; Times: 7
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "IF 396" ; Times: 2
+	Query: "genus:Eubalaena year &gt;= 1900 year &lt;= 1940" ; Times: 2
+	Query: "genus:Eubalaena year &gt;= 1900 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "gardiners class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "specificepithet:latrans genus:canis institutioncode:NYSM" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "order:soricomorpha county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "order:Carnivora county:&#34;suffolk&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "Nasua narica" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "BI vntype:specimen genus:Peromyscus family:Cricetidae" ; Times: 1
+	Query: "order:Carnivora county:&#34;nassau&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Nantucket order:carnivora class:mammalia stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "long island order:Carnivora stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "locality:not recorded year &gt;= 1900 year &lt;= 1949" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "genus:myocastor" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "genus:Tamias county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "year &gt;= 1900 year &lt;= 1949 institutioncode:NYSM" ; Times: 2
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Sylvilagus Pendleton County" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "Myocastor coypus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "locality:not recorded year &gt;= 1900 year &lt;= 1949 institutioncode:NYSM" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "family:Balaenidae year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "long island class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "sorex hoyi" ; Times: 2
+	Query: "Octodon degus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 571
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "IF 396" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "equus" ; Times: 1
+
+
+End of report.
