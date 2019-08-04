@@ -1,0 +1,141 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 1942
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 64
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Nepal ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-08 ; Times: 7
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-14 ; Times: 8
+	Date: 2019-07-15 ; Times: 8
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-22 ; Times: 7
+	Date: 2019-07-21 ; Times: 6
+	Date: 2019-07-27 ; Times: 2
+	Date: 2019-07-25 ; Times: 6
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-16 ; Times: 7
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-28 ; Times: 4
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:Canis catalognumber:14819 institutioncode:NYSM" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "locality:shelter island county:&#34;suffolk&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex institutioncode:NYSM" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "ITS 383" ; Times: 2
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 9
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "locality:Shelter Island county:&#34;suffolk&#34; stateprovince:&#34;New York&#34; (mashomack OR shelter island)" ; Times: 1
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 5
+	Query: "specificepithet:latrans genus:Canis catalognumber:13619 institutioncode:NYSM" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "maple tree" ; Times: 1
+	Query: "Goldenrod" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;new york&#34; hastissue:1" ; Times: 1
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "specificepithet:carolinensis class:MAMMALIA stateprovince:&#34;new york&#34; year &gt;= 1974" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "anteater skeleton" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "genus:microtus stateprovince:&#34;newfoundland&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "NYSM 11137" ; Times: 1
+	Query: "coryell" ; Times: 1
+	Query: "vntype:specimen genus:caluromys preparations:skeleton" ; Times: 2
+	Query: "stateprovince:&#34;Maine&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;New York&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "gbifdatasetid:835ff8be-ea5c-45e4-b3f3-126852ac56fe" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus class:mammalia county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 2
+	Query: "12108" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:NYSM" ; Times: 3
+	Query: "NYSM &#34;15398&#34;" ; Times: 2
+	Query: "genus:microtus class:mammalia county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 2
+	Query: "genus:zapus class:MAMMALIA locality:salmon" ; Times: 1
+	Query: "Newfield Peromyscus" ; Times: 2
+	Query: "Skulls" ; Times: 1
+	Query: "&#34;sylvilagus transitionalis&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:NYSM" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 985 download events in this period)
+Total number of records downloaded: 844
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 5
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 1995" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1990 year &lt;= 1995" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "locality:Ordway" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
