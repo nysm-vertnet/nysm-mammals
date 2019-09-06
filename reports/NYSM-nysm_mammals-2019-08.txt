@@ -1,0 +1,184 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 2887
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 117
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-08 ; Times: 6
+	Date: 2019-08-07 ; Times: 11
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-15 ; Times: 22
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-05 ; Times: 13
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 6
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-27 ; Times: 8
+	Date: 2019-08-24 ; Times: 7
+	Date: 2019-08-22 ; Times: 8
+	Date: 2019-08-30 ; Times: 32
+	Date: 2019-08-20 ; Times: 8
+	Date: 2019-08-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "map turtle" ; Times: 1
+	Query: "Dasyprocta punctata mappable:1" ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:microtus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "kogia breviceps" ; Times: 2
+	Query: "genus:microtus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "Physeter macrocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019" ; Times: 2
+	Query: "order:cingulata preparations:skeleton" ; Times: 20
+	Query: "stillwater rodentia" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 12
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "3541" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "nysm" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "ovibos moschatus" ; Times: 3
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 2
+	Query: "ovibos" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon locality:New York" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 6
+	Query: "Bos taurus" ; Times: 1
+	Query: "genus:thomomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 3
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Warfel" ; Times: 1
+	Query: "specificepithet:vison genus:mustela" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new Jersey&#34;" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "7159" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "brook trout" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:reithrodontomys class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 6
+	Query: "alouatta palliata" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "institutioncode:NYSM" ; Times: 2
+	Query: "Panthera" ; Times: 2
+	Query: "stenella coeruleoalba country:&#34;United States&#34;" ; Times: 2
+	Query: "order:pilosa preparations:skeleton" ; Times: 1
+	Query: "Physeter macrocephalus country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1034 download events in this period)
+Total number of records downloaded: 2725
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Brazil ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 9
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nasua" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Procyon" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "eptesicus fuscus" ; Times: 2
+
+
+End of report.
