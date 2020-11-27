@@ -1,0 +1,125 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 556
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Panama ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 33
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-20 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:acutus genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "specificepithet:acutus genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34; institutioncode:NYSM" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "IF 10041" ; Times: 1
+	Query: "genus:Delphinus delphis stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "order:Carnivora country:&#34;Panama&#34;" ; Times: 3
+	Query: "genus:Delphinus delphis stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "recordedby:Hess" ; Times: 1
+	Query: "ZM" ; Times: 1
+	Query: "Giraffa" ; Times: 2
+	Query: "Grampus griseus" ; Times: 1
+	Query: "canidae ovary" ; Times: 3
+	Query: "12552" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "vntype:specimen institutioncode:NYSM basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "(platt)" ; Times: 1
+	Query: "ovary canidae" ; Times: 2
+	Query: "specificepithet:acutus genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "vntype:specimen institutioncode:NYSM" ; Times: 2
+	Query: "specificepithet:breviceps genus:kogia country:&#34;United States&#34;" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "genus:Giraffa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1106 download events in this period)
+Total number of records downloaded: 2107
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-22 ; Times: 10
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 4
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Martes martes" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+
+
+End of report.
