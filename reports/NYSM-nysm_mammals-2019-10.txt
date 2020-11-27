@@ -1,0 +1,215 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 219
+Number of records retrieved in searches: 1290
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 134
+	Country: Mexico ; Times: 72
+	Country: Uruguay ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Sri Lanka ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 12
+	Date: 2019-10-21 ; Times: 4
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-03 ; Times: 5
+	Date: 2019-10-02 ; Times: 6
+	Date: 2019-10-05 ; Times: 7
+	Date: 2019-10-04 ; Times: 21
+	Date: 2019-10-07 ; Times: 11
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 29
+	Date: 2019-10-29 ; Times: 49
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-19 ; Times: 11
+	Date: 2019-10-30 ; Times: 12
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 19
+	Date: 2019-10-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "preparations:skeleton (Lynx lynx)" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 8
+	Query: "genus:sorex stateprovince:&#34;newfoundland&#34;" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "catalognumber:5157 institutioncode:NYSM" ; Times: 2
+	Query: "Myotis sodalis 1987" ; Times: 1
+	Query: "genus:Martes continent:North America preparations:skull institutioncode:NYSM" ; Times: 1
+	Query: "Myotis sodalis 1982" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "Rattus norvegicus 2004" ; Times: 1
+	Query: "Rattus norvegicus 2007" ; Times: 1
+	Query: "Myotis septentrionalis 1990" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 1
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 2
+	Query: "genus:panthera" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 18
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "preparations:skeleton (Lynx canadensis)" ; Times: 1
+	Query: "Nasua narica" ; Times: 2
+	Query: "Lynx canadensis 2008" ; Times: 1
+	Query: "Myotis sodalis 1999" ; Times: 1
+	Query: "Lynx canadensis 2004" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "Myotis sodalis 1992" ; Times: 1
+	Query: "catalognumber:4665 institutioncode:NYSM" ; Times: 3
+	Query: "Rattus norvegicus 2010" ; Times: 1
+	Query: "Myotis septentrionalis 1980" ; Times: 1
+	Query: "Reithrodontomys megalotis 2004" ; Times: 1
+	Query: "Myotis septentrionalis 1988" ; Times: 1
+	Query: "Myotis septentrionalis 1989" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:monax genus:marmota continent:North America year &gt;= 1900 year &lt;= 1950" ; Times: 2
+	Query: "Mus musculus 1987" ; Times: 2
+	Query: "Leopardus pardalis 1988" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "catalognumber:5137 institutioncode:NYSM" ; Times: 2
+	Query: "Mus musculus 2007" ; Times: 2
+	Query: "Mus musculus 2004" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "catalognumber:4664 institutioncode:NYSM" ; Times: 3
+	Query: "Mus musculus 1996" ; Times: 2
+	Query: "Mus musculus 1990" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "Felis catus" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Myotis sodalis 1986" ; Times: 1
+	Query: "&#34;Rattus rattus&#34; vntype:specimen stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Mus musculus 2010" ; Times: 2
+	Query: "catalognumber:5158 institutioncode:NYSM" ; Times: 2
+	Query: "Odocoileus virginianus preparations:skeleton" ; Times: 1
+	Query: "kogia breviceps" ; Times: 21
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "11817" ; Times: 1
+	Query: "Reithrodontomys megalotis 1989" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "Myotis septentrionalis 2016" ; Times: 1
+	Query: "catalognumber:5161 institutioncode:NYSM" ; Times: 3
+	Query: "Neotoma cinerea 1984" ; Times: 1
+	Query: "Myotis sodalis 2004" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "catalognumber:5404 institutioncode:NYSM" ; Times: 2
+	Query: "preparations:skeleton (Phoca vitulina)" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "10495" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "Myotis sodalis 2016" ; Times: 1
+	Query: "Myotis sodalis 2010" ; Times: 1
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "specificepithet:monax genus:marmota year &gt;= 1850 year &lt;= 1950" ; Times: 3
+	Query: "skin specificepithet:latrans genus:Canis" ; Times: 1
+	Query: "Myotis septentrionalis 2015" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "specificepithet:leo genus:panthera" ; Times: 3
+	Query: "preparations:skeleton (Leopardus pardalis)" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "Lynx canadensis 1988" ; Times: 1
+	Query: "catalognumber:5393 institutioncode:NYSM" ; Times: 2
+	Query: "Rattus norvegicus 1987" ; Times: 1
+	Query: "Rattus norvegicus 1989" ; Times: 1
+	Query: "Leopardus pardalis 2006" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Leopardus pardalis 2003" ; Times: 1
+	Query: "Rattus norvegicus 1978" ; Times: 1
+	Query: "&#34;Rattus rattus&#34; vntype:specimen stateprovince:&#34;new york&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "Myotis septentrionalis 2004" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Myotis septentrionalis 1972" ; Times: 1
+	Query: "Kogia" ; Times: 1
+	Query: "specificepithet:monax genus:marmota year &gt;= 1900 year &lt;= 1950" ; Times: 4
+	Query: "equus" ; Times: 1
+	Query: "catalognumber:5138 institutioncode:NYSM" ; Times: 2
+	Query: "Rattus norvegicus 1996" ; Times: 1
+	Query: "Rattus norvegicus 1994" ; Times: 1
+	Query: "Rattus norvegicus 1991" ; Times: 1
+	Query: "catalognumber:14756 institutioncode:NYSM" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Gulo gulo" ; Times: 8
+	Query: "Myotis sodalis 1990" ; Times: 1
+	Query: "institutioncode:NYSM" ; Times: 2
+	Query: "skin specificepithet:latrans genus:Canis hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1308 download events in this period)
+Total number of records downloaded: 1865
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Mexico ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Odocoileus virginianus preparations:skeleton" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "family:soricidae" ; Times: 1
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "sorex ornatus" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "order:Rodentia county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
