@@ -1,0 +1,174 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 1627
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 90
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 5
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-22 ; Times: 6
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 11
+	Date: 2020-04-07 ; Times: 45
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-02 ; Times: 6
+	Date: 2020-04-03 ; Times: 13
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-21 ; Times: 25
+	Date: 2020-04-29 ; Times: 6
+	Date: 2020-04-08 ; Times: 12
+	Date: 2020-04-28 ; Times: 7
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis septentrionalis" ; Times: 3
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "institutioncode:NYSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ovis aries" ; Times: 10
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hastissue:1" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "nysm" ; Times: 2
+	Query: "specificepithet:narica genus:Nasua" ; Times: 3
+	Query: "North Midden" ; Times: 1
+	Query: "(10009)" ; Times: 2
+	Query: "Sus scrofa" ; Times: 6
+	Query: "specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 3
+	Query: "skulls" ; Times: 1
+	Query: "Sciurus granatensis" ; Times: 3
+	Query: "13890" ; Times: 2
+	Query: "Rangifer tarandus" ; Times: 3
+	Query: "genus:Scalopus institutioncode:NYSM" ; Times: 2
+	Query: "equus" ; Times: 1
+	Query: "genus:Parascalops institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus institutioncode:NYSM" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "Felis catus year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "Ovis dalli" ; Times: 4
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Aotus lemurinus" ; Times: 6
+	Query: "Bos taurus" ; Times: 3
+	Query: "Mustela erminea" ; Times: 4
+	Query: "genus:Pecari" ; Times: 6
+	Query: "Panthera tigris" ; Times: 6
+	Query: "genus:grampus stateprovince:&#34;Massachusetts&#34;" ; Times: 4
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Capra hircus" ; Times: 2
+	Query: "Alces alces" ; Times: 3
+	Query: "specificepithet:Carolinensis genus:Sciurus country:&#34;United States&#34; continent:North America sex:male lengthtype:total length haslength:1" ; Times: 2
+	Query: "skunk skull" ; Times: 2
+	Query: "O. virginianus" ; Times: 2
+	Query: "specificepithet:niger genus:sciurus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 5
+	Query: "specificepithet:pinetorum genus:Microtus institutioncode:NYSM" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 5
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "15034" ; Times: 1
+	Query: "genus:Condylura institutioncode:NYSM" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "alces alces" ; Times: 2
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "skunk" ; Times: 1
+	Query: "12876" ; Times: 1
+	Query: "Felis silvestris" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1171 download events in this period)
+Total number of records downloaded: 1969
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Canada ; Times: 3
+	Country: Argentina ; Times: 7
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 9
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
