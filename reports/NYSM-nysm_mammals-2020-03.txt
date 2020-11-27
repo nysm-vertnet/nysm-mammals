@@ -1,0 +1,172 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 341
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 68
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-13 ; Times: 5
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 9
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-23 ; Times: 38
+	Date: 2020-03-22 ; Times: 3
+	Date: 2020-03-18 ; Times: 10
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-12 ; Times: 4
+	Date: 2020-03-04 ; Times: 4
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Choloepus hoffmanni mappable:1" ; Times: 2
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "catalognumber:zm-15181" ; Times: 1
+	Query: "catalognumber:zm-13619" ; Times: 2
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "panthera" ; Times: 2
+	Query: "specificepithet:leo genus:panthera" ; Times: 1
+	Query: "catalognumber:zm-14530" ; Times: 3
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "catalognumber:zm-13654" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Cebus" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "hastissue:1 marmota monax" ; Times: 3
+	Query: "catalognumber:zm-15952" ; Times: 1
+	Query: "catalognumber:14530 institutioncode:NYSM" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "catalognumber:zm-15171" ; Times: 1
+	Query: "catalognumber:zm-14827" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "catalognumber:zm-15583" ; Times: 1
+	Query: "catalognumber:zm-15808" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias" ; Times: 1
+	Query: "catalognumber:zm-13616" ; Times: 1
+	Query: "genus:Tamandua" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "PANTHERA" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "catalognumber:15515 institutioncode:NYSM" ; Times: 1
+	Query: "family:Suidae preparations:skeleton" ; Times: 2
+	Query: "Bos taurus" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "catalognumber:13619 institutioncode:NYSM" ; Times: 3
+	Query: "catalognumber:zm-15956" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus year &lt;= 1930" ; Times: 1
+	Query: "catalognumber:zm-15142" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;new york&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:zm-13643" ; Times: 1
+	Query: "Aepyceros melampus" ; Times: 1
+	Query: "catalognumber:14819 institutioncode:NYSM" ; Times: 1
+	Query: "catalognumber:zm-13648" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "catalognumber:zm-15126" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "catalognumber:zm-15124" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "catalognumber:zm-15121" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "alouatta palliata" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "canis familiaris" ; Times: 2
+	Query: "(15209)" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "catalognumber:zm-15985" ; Times: 2
+	Query: "catalognumber:zm-15541" ; Times: 2
+	Query: "genus:PANTHERA" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 5
+	Query: "catalognumber:zm-14819" ; Times: 1
+	Query: "specificepithet:pennanti" ; Times: 4
+	Query: "catalognumber:zm-15170" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 853 download events in this period)
+Total number of records downloaded: 432
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 4
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "genus:ursus" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 3
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "ontario stateprovince:&#34;ontario&#34; country:&#34;canada&#34; (mammalia)" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
