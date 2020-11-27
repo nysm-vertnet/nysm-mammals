@@ -1,0 +1,178 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2268
+Number of records retrieved in searches: 3566
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2232
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 24
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-02 ; Times: 2146
+	Date: 2020-01-01 ; Times: 5
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 13
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 23
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 14
+	Date: 2020-01-30 ; Times: 14
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-10 ; Times: 6
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-13 ; Times: 16
+	Date: 2020-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:latrans genus:Canis institutioncode:NYSM hastissue:1" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "genus:Urocyon hastissue:1" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 4
+	Query: "family:hominidae institutioncode:NYSM" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "sorex hoyi" ; Times: 4
+	Query: "13731" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "&#34;Ursus arctos&#34;" ; Times: 1
+	Query: "genus:gorilla institutioncode:NYSM" ; Times: 2
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;Oswego&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Mus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 3
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "catalognumber:13654 institutioncode:NYSM" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 7
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 2
+	Query: "order:primates institutioncode:NYSM" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "beagle" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;new york&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "ursus maritimus" ; Times: 2
+	Query: "Aotus lemurinus" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(2813266.0539046,-2055913.08604036))&lt;454470.177343282" ; Times: 2151
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;clinton&#34; stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;Orange&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "catalognumber:15126 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "catalognumber:13619 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "genus:Myodes institutioncode:NYSM" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;chenango&#34; stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:15610 institutioncode:NYSM" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "catalognumber:14819 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 3
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;dutchess&#34; stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "Lepus capensis mappable:1" ; Times: 3
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae hastissue:1" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra hastissue:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:lynx stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "Phoca vitulina vntype:specimen" ; Times: 1
+	Query: "Mustela putorius mappable:1" ; Times: 2
+	Query: "&#34;Tapirus bairdii&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;warren&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;Putnam&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1584 download events in this period)
+Total number of records downloaded: 679
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 5
+	Date: 2020-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "genus:Mus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+
+
+End of report.
