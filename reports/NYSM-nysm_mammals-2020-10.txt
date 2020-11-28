@@ -1,0 +1,232 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 1885
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 74
+	Country: Italy ; Times: 12
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 37
+	Country: Austria ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-08 ; Times: 7
+	Date: 2020-10-12 ; Times: 7
+	Date: 2020-10-13 ; Times: 32
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-16 ; Times: 4
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-14 ; Times: 15
+	Date: 2020-10-15 ; Times: 7
+	Date: 2020-10-20 ; Times: 12
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-21 ; Times: 23
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-30 ; Times: 21
+	Date: 2020-10-29 ; Times: 6
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-17 ; Times: 10
+	Date: 2020-10-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 3
+	Query: "panthera" ; Times: 3
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "Sylvilagus palustris" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1 hassex:1" ; Times: 4
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "mappable:1 scientificname:Didelphis marsupialis" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "genus:panthera country:&#34;united states&#34;" ; Times: 1
+	Query: "Neotoma stateprovince:&#34;texas&#34; (albigula OR leucodon OR Robusta)" ; Times: 1
+	Query: "order:artiodactyla country:&#34;tanzania&#34;" ; Times: 5
+	Query: "Brook trout" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:NYSM" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "10431" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "order:Artiodactyla class:Mammalia country:&#34;Tanzania&#34; continent:Africa" ; Times: 5
+	Query: "mappable:1 scientificname:Balaenoptera physalus" ; Times: 1
+	Query: "genus:Tursiops stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "scientificname:Rangifer tarandus" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 3
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "(12009)" ; Times: 1
+	Query: "country:&#34;Australia&#34; institutioncode:NYSM" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "Equus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "tursiops" ; Times: 2
+	Query: "Chiroptera NYSM" ; Times: 1
+	Query: "mappable:1 scientificname:Stenella coeruleoalba" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "class:mammalia locality:arusha country:&#34;tanzania&#34;" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;california&#34; institutioncode:NYSM" ; Times: 1
+	Query: "Chiroptera New York NYSM" ; Times: 11
+	Query: "specificepithet:maritimus genus:Ursus hassex:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "Castor canadensis" ; Times: 2
+	Query: "genus:Leopardus " ; Times: 1
+	Query: "order:rodentia locality:arusha country:&#34;tanzania&#34;" ; Times: 1
+	Query: "zm 11688" ; Times: 1
+	Query: "scientificname:Aotus lemurinus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "scientificname:Gulo gulo" ; Times: 3
+	Query: "panthera leo" ; Times: 5
+	Query: "Sus scrofa" ; Times: 3
+	Query: "mappable:1 scientificname:Grampus griseus" ; Times: 2
+	Query: "mappable:1 scientificname:Tursiops truncatus" ; Times: 1
+	Query: "specificepithet: equinus genus: Hippotragus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslifestage:1 haslength:1" ; Times: 1
+	Query: "Mammalia vntype:specimen catalognumber:1982" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:NYSM" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Bos taurus" ; Times: 4
+	Query: "mammal 13363" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 20
+	Query: "Lagenorhynchus acutus" ; Times: 1
+	Query: "Capra hircus" ; Times: 2
+	Query: "Alces alces" ; Times: 1
+	Query: "order:rodentia country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "alces alces" ; Times: 1
+	Query: "moth" ; Times: 1
+	Query: "Delphinus delphis" ; Times: 1
+	Query: "specificepithet:frontalis genus:stenella stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "russel" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 6
+	Query: "Neotoma stateprovince:&#34;texas&#34; (albigula OR leucodon)" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "mappable:1 scientificname:Physeter macrocephalus" ; Times: 2
+	Query: "12803" ; Times: 2
+	Query: "specificepithet:carolinensis genus:sciurus hassex:1 haslength:1" ; Times: 1
+	Query: "ursus arctos alaska" ; Times: 1
+	Query: "kogia" ; Times: 3
+	Query: "mappable:1 scientificname:Kogia breviceps" ; Times: 2
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus AND (USA) haslifestage:1 hassex:1" ; Times: 1
+	Query: "scientificname:Lynx lynx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1521 download events in this period)
+Total number of records downloaded: 24173
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-12 ; Times: 6
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-14 ; Times: 19
+	Date: 2020-10-31 ; Times: 7
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslifestage:1 haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1925" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1 hassex:1" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "order:Artiodactyla class:Mammalia country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "specificepithet:campestris genus:raphicerus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:NYSM" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslifestage:1 hassex:1 haslength:1" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Chiroptera New York NYSM" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "Sorex dispar" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+	Query: "specificepithet:marsupialis genus:antidorcas" ; Times: 1
+
+
+End of report.
