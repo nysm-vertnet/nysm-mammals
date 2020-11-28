@@ -1,0 +1,154 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 1132
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 24
+	Country: France ; Times: 1
+	Country: United States ; Times: 35
+	Country: Ireland ; Times: 3
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 8
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-14 ; Times: 14
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 10
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 3
+	Query: "scientificname:Panthera leo" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus family:Ursidae haslifestage:1" ; Times: 1
+	Query: "genus:Lontra hastissue:1" ; Times: 1
+	Query: "mazama temama" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:delphis genus:delphinus stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "scat" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Tompkins&#34; stateprovince:&#34;New York&#34; institutioncode:NYSM hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Rangifer tarandus" ; Times: 1
+	Query: "scientificname:Peromyscus leucopus" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes continent:North America" ; Times: 1
+	Query: "specificepithet:sodalis genus:Myotis haslifestage:1" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 3
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 2
+	Query: "nasua nasua" ; Times: 3
+	Query: "atlantic forest" ; Times: 1
+	Query: "catalognumber:zm-5439 institutioncode:NYSM" ; Times: 3
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "recordedby:Matthews" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 5
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "scientificname:Cebus capucinus" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;New York&#34; institutioncode:NYSM" ; Times: 2
+	Query: "Vision" ; Times: 1
+	Query: "otomys" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "alouatta palliata" ; Times: 4
+	Query: "bos taurus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;New York&#34; institutioncode:NYSM hastissue:1" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 2
+	Query: "scientificname:Tursiops truncatus" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "genus:Nasua hastissue:1" ; Times: 1
+	Query: "specificepithet:cuniculus genus:Oryctolagus" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 976 download events in this period)
+Total number of records downloaded: 2894
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-29 ; Times: 6
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-09 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
