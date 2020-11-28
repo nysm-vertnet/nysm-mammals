@@ -1,0 +1,260 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 4079
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 154
+	Country: Ireland ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 8
+	Date: 2020-07-08 ; Times: 44
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-01 ; Times: 11
+	Date: 2020-07-03 ; Times: 8
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-04 ; Times: 6
+	Date: 2020-07-07 ; Times: 63
+	Date: 2020-07-06 ; Times: 10
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-28 ; Times: 7
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-17 ; Times: 5
+	Date: 2020-07-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:acutus genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34;" ; Times: 4
+	Query: "genus:clethrionomys county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "order:Rodentia class:Mammalia county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 5
+	Query: "11825" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 4
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:sorex county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "13364" ; Times: 1
+	Query: "specificepithet:dispar genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:mus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(46.45760574842239,-112.20703125))&lt;100000" ; Times: 2
+	Query: "15110" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "genus:blarina county:&#34;Oneida&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;4977167" ; Times: 1
+	Query: "genus:microtus county:&#34;Washington&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Microtus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Warfel" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "family:Muridae order:Rodentia class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:synaptomys county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "genus:glaucomys county:&#34;Washington&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 4
+	Query: "specificepithet:pennsylvanicus genus:Microtus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Blarina county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 4
+	Query: "genus:Blarina county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:zapus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Warren&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Peromyscus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex county:&#34;Washington&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Blarina county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Napaeozapus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Franklin&#34; OR &#34;Clinton&#34; OR &#34;Hamilton&#34; OR &#34;St. Lawrence&#34; OR &#34;Warren&#34; OR &#34;Essex&#34; or stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "genus:zapus county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "genus:Peromyscus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:fumeus genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:zapus county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:Pinetorum genus:Microtus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "genus:Synaptomys county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "genus:Blarina county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:clethrionomys county:&#34;Warren&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:glaucomys county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Microtus county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "genus:zapus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:glaucomys county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Clethrionomys county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "order:rodentia county:&#34;clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "11614" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Oneida&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Napaeozapus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Clethrionomys county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "warfel" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "apple" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Warren&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "genus:zapus county:&#34;Washington&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "order:Rodentia county:&#34;Franklin&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "ursus maritimus" ; Times: 8
+	Query: "specificepithet:fumeus genus:sorex county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Adirondacks" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "neotoma floridana" ; Times: 2
+	Query: "genus:sorex county:&#34;Oneida&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "county:&#34;Fulton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:zapus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "genus:Sus" ; Times: 1
+	Query: "genus:Blarina county:&#34;Washington&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Sorex county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "genus:sorex county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "12348" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "order:Rodentia county:&#34;Franklin&#34; OR &#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "genus:sus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Microtus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:gapperi genus:clethrionomys county:&#34;hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Peromyscus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Hemitragus jemlahicus" ; Times: 1
+	Query: "genus:blarina county:&#34;Warren&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:sorex county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:sabrinus genus:glaucomys county:&#34;hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 4
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex county:&#34;Washington&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Napaeozapus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Peromyscus county:&#34;Warren&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "genus:Blarina county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "genus:Glaucomys county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "specificepithet:gapperi genus:clethrionomys county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "vntype:specimen order:Chiroptera preparations:FLuid basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:Pennsylvanicus genus:Microtus county:&#34;Lewis&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "genus:sorex county:&#34;Washington&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "institutioncode:NYSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 940 download events in this period)
+Total number of records downloaded: 7106
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 18
+	Country: Colombia ; Times: 6
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 6
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "order:Rodentia class:Mammalia county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "order:Rodentia county:&#34;Franklin&#34; OR &#34;Clinton&#34; OR &#34;Hamilton&#34; OR &#34;St. Lawrence&#34; OR &#34;Warren&#34; OR &#34;Essex&#34; or stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "Hemitragus jemlahicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Stenella frontalis" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "order:rodentia county:&#34;clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "vntype:specimen order:Chiroptera preparations:FLuid basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "Phyllostomidae vntype:specimen year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "fluid vntype:specimen order:Chiroptera" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
