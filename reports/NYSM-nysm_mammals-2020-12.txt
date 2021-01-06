@@ -1,0 +1,230 @@
+Report for Institution Code NYSM, Resource nysm_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 285
+Number of records retrieved in searches: 23970
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 232
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 13
+	Country: Mozambique ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Pakistan ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 6
+	Date: 2020-12-04 ; Times: 9
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-06 ; Times: 3
+	Date: 2020-12-02 ; Times: 102
+	Date: 2020-12-18 ; Times: 5
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-09 ; Times: 97
+	Date: 2020-12-08 ; Times: 5
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-30 ; Times: 4
+	Date: 2020-12-13 ; Times: 10
+	Date: 2020-12-14 ; Times: 20
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "scientificname:Ursus americanus stateprovince:new york" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "scientificname:Martes americana stateprovince:new york" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "scientificname:Cryptotis parva stateprovince:new york" ; Times: 3
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "alces" ; Times: 2
+	Query: "scientificname:Martes pennanti stateprovince:new york" ; Times: 2
+	Query: "Tarrant County" ; Times: 5
+	Query: "scientificname:Rattus norvegicus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Glaucomys sabrinus stateprovince:new york" ; Times: 3
+	Query: "bradypus" ; Times: 1
+	Query: "vntype:specimen genus:Equus institutioncode:NYSM" ; Times: 1
+	Query: "scientificname:Lepus europaeus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Phoca vitulina stateprovince:new york" ; Times: 2
+	Query: "scientificname:Kogia breviceps stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lasiurus cinereus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myotis septentrionalis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "scientificname:Tursiops truncatus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myotis lucifugus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lynx canadensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Canis lupus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Procyon lotor stateprovince:new york" ; Times: 2
+	Query: "scientificname:Canis latrans stateprovince:new york" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 8
+	Query: "Nasua nasua" ; Times: 3
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "panthera leo leo" ; Times: 3
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 2
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "NYSM *11255" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "scientificname:Halichoerus grypus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mustela sp. stateprovince:new york" ; Times: 2
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myodes gapperi stateprovince:new york" ; Times: 2
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "scientificname:Castor canadensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myotis sodalis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Eptesicus fuscus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Odocoileus virginianus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "locality:san bernardino national forest year &gt;= 1980" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "lontra Canadensis" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sus scrofa stateprovince:new york" ; Times: 2
+	Query: "scientificname:Urocyon cinereoargenteus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Didelphis virginiana stateprovince:new york" ; Times: 2
+	Query: "12995" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 1
+	Query: "Lepus capensis" ; Times: 2
+	Query: "Felis catus" ; Times: 2
+	Query: "gbifdatasetid:835ff8be-ea5c-45e4-b3f3-126852ac56fe" ; Times: 1
+	Query: "scientificname:Glaucomys sp. stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 6
+	Query: "myocastor coypus" ; Times: 1
+	Query: "scientificname:Mus musculus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Vulpes vulpes stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lepus americanus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias institutioncode:NYSM" ; Times: 1
+	Query: "scientificname:Sorex palustris stateprovince:new york" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "mappable:1 scientificname:Panthera leo" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mephitis mephitis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 8
+	Query: "scientificname:Felis catus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myotis leibii stateprovince:new york" ; Times: 2
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Synaptomys cooperi stateprovince:new york" ; Times: 3
+	Query: "scientificname:Sciurus niger stateprovince:new york" ; Times: 3
+	Query: "genus:urocyon stateprovince:&#34;georgia&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "scientificname:Erethizon dorsatum stateprovince:new york" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "scientificname:Sorex hoyi stateprovince:new york" ; Times: 3
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Phocoena phocoena stateprovince:new york" ; Times: 2
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "scientificname:Stenella coeruleoalba stateprovince:new york" ; Times: 2
+	Query: "scientificname:Rattus rattus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:latrans genus:canis catalognumber:zm-14671" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 2
+	Query: "scientificname:Lontra canadensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Bison bison stateprovince:new york" ; Times: 2
+	Query: "scientificname:Physeter macrocephalus stateprovince:new york" ; Times: 2
+	Query: "arlington texas" ; Times: 2
+	Query: "scientificname:Mustela erminea stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lynx rufus stateprovince:new york" ; Times: 2
+	Query: "leopardus" ; Times: 1
+	Query: "scientificname:Puma concolor stateprovince:new york" ; Times: 2
+	Query: "mappable:1 scientificname:Giraffa camelopardalis" ; Times: 1
+	Query: "class:mammalia locality:san bernardino national forest year &gt;= 1980" ; Times: 2
+	Query: "scientificname:Stenella frontalis stateprovince:new york" ; Times: 2
+	Query: "specificepithet:latrans genus:canis catalognumber:zm-14667" ; Times: 1
+	Query: "specificepithet:latrans genus:canis catalognumber:zm-14666" ; Times: 2
+	Query: "scientificname:Microtus chrotorrhinus stateprovince:new york" ; Times: 3
+	Query: "scientificname:Lepus californicus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 20
+	Query: "scientificname:Delphinus delphis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sorex dispar stateprovince:new york" ; Times: 3
+	Query: "potsdam" ; Times: 1
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 6
+	Query: "Bos taurus" ; Times: 2
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 2
+	Query: "12880" ; Times: 1
+	Query: "scientificname:Peromyscus sp. stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mustela nivalis stateprovince:new york" ; Times: 3
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "scientificname:Lasionycteris noctivagans stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sylvilagus transitionalis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Alces alces stateprovince:new york" ; Times: 2
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 6
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34; year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Lasiurus borealis stateprovince:new york" ; Times: 2
+	Query: "11258" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Bison bonasus" ; Times: 2
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lagenorhynchus acutus stateprovince:new york" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 705 download events in this period)
+Total number of records downloaded: 4146
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "canis latrans" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+
+
+End of report.
